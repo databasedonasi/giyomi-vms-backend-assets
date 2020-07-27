@@ -1,0 +1,1 @@
+# giyomi-vms-backend-assets
